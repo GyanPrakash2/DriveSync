@@ -1,4 +1,4 @@
-# Car Rental System
+# SwiftDrive
 
 The Car Rental System is a simple Java console application that allows users to rent and return cars. It is designed to manage a fleet of cars, customers, and rentals.
 
